@@ -1,5 +1,5 @@
 # E-Commerce Microservice Platform
-
+# ShopHub
 A robust, scalable e-commerce backend built with Spring Boot following microservice architecture principles.
 
 ## Table of Contents
